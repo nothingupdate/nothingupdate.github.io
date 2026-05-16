@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nothingupdate.github.io/sitemap.xml
